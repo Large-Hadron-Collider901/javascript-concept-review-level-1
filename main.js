@@ -13,7 +13,7 @@ const exercise1 = (x1, x2) => {
     }
     console.log('Exercise 1');
     console.log(...arr);
-    return arr;
+    return arr;    
 }
 
 // Ex 2. Multiplications table
